@@ -18,3 +18,7 @@ then start the node server:
 #### 3. Now the node.js app server is running on localhost at port 8080 and thus go to browser at: 
 To view all users: http://localhost:8080/users/
 To view a specific user for example: http://localhost:8080/users/600e34b040c0e77beda8f8a3
+
+#### 4. To run the unit testing of all routes, stop the node app server first (i.e. enter 'CTRL + C' to stop the running node app) and then run the mocha command to start testing:
+Make sure to open a new terminal window and cd into the same root dir of where index.js (for this node app) is located;
+and then issue command: 'mocha --exit test/routes/users-test.js'
