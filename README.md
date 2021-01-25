@@ -9,10 +9,12 @@ e.g.
 then start the mongod DB server:
 'mongod --dbpath=/Users/yifan/data/db/'
 
+#### Extra important note, I have coded a script (seedDB.js) to automatically populate the mongo database with sample users data and thus before running this node application for the first time, please uncomment the line '//seedDB()' in index.js to automatically populate the database.
+
 #### 2. cd into the root dir of where this repo has been cloned (i.e. where index.js is located). npm install all the dependencies first and then run the node application server:
 e.g.
 'npm install'
-then start the node server:
+then start the node server via the main entry point file index.js:
 'node index.js'
 
 #### 3. Now the node.js app server is running on localhost at port 8080 and thus go to browser at: 
