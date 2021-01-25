@@ -9,7 +9,7 @@ e.g.
 then start the mongod DB server:
 'mongod --dbpath=/Users/yifan/data/db/'
 
-#### Extra important note, I have coded a script (seedDB.js) to automatically populate the mongo database with sample users data and thus before running this node application for the first time, please uncomment the line '//seedDB()' in index.js to automatically populate the database.
+#### Extra important note, I have coded a script (seedDB.js) to automatically populate the mongo database with sample users data and thus before running this node application for the first time, please uncomment the line with '//seedDB()' (i.e. line 15) in index.js to automatically populate the database.
 
 #### 2. cd into the root dir of where this repo has been cloned (i.e. where index.js is located). npm install all the dependencies first and then run the node application server:
 e.g.
