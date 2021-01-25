@@ -1,0 +1,7 @@
+{"values":[
+    {"kind":"structValue","structValue":{"fields":{"id":{"kind":"stringValue","stringValue":"\"600e34b040c0e77beda8f8a1\""},"name":{"kind":"stringValue","stringValue":"Michael"},"age":{"kind":"numberValue","numberValue":49},"city":{"kind":"stringValue","stringValue":"Scranton"}}}},
+    {"kind":"structValue","structValue":{"fields":{"id":{"kind":"stringValue","stringValue":"\"600e34b040c0e77beda8f8a2\""},"name":{"kind":"stringValue","stringValue":"Dwight"},"age":{"kind":"numberValue","numberValue":45},"city":{"kind":"stringValue","stringValue":"Scranton"}}}},
+    {"kind":"structValue","structValue":{"fields":{"id":{"kind":"stringValue","stringValue":"\"600e34b040c0e77beda8f8a3\""},"name":{"kind":"stringValue","stringValue":"Jim"},"age":{"kind":"numberValue","numberValue":42},"city":{"kind":"stringValue","stringValue":"Scranton"}}}},
+    {"kind":"structValue","structValue":{"fields":{"id":{"kind":"stringValue","stringValue":"\"600e34b040c0e77beda8f8a4\""},"name":{"kind":"stringValue","stringValue":"Jan"},"age":{"kind":"numberValue","numberValue":46},"city":{"kind":"stringValue","stringValue":"New York"}}}},
+    {"kind":"structValue","structValue":{"fields":{"id":{"kind":"stringValue","stringValue":"\"600e34b040c0e77beda8f8a5\""},"name":{"kind":"stringValue","stringValue":"Ryan"},"age":{"kind":"numberValue","numberValue":40},"city":{"kind":"stringValue","stringValue":"Hawaii"}}}}
+    ]}
